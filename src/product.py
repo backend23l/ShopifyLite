@@ -1,5 +1,5 @@
 class Product:
-    id = 10000000
+    id = 1
 
     def __init__(self, name: str, price: float, quantity: int):
         self.product_id = Product.id
